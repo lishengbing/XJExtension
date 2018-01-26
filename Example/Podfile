@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'XJExtension_Example' do
+  pod 'XJExtension', :path => '../'
+
+  target 'XJExtension_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
