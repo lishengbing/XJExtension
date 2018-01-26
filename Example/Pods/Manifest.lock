@@ -1,0 +1,19 @@
+PODS:
+  - SVProgressHUD (2.2.2)
+  - XJExtension (0.0.2):
+    - SVProgressHUD (= 2.2.2)
+
+DEPENDENCIES:
+  - XJExtension (from `../`)
+
+EXTERNAL SOURCES:
+  XJExtension:
+    :path: ../
+
+SPEC CHECKSUMS:
+  SVProgressHUD: 59b2d3dabacbd051576d21d32293ca7228dc18b0
+  XJExtension: 236eb8b4ddac7597c4bf30c99fdfd916218e3048
+
+PODFILE CHECKSUM: 65a99dd2330a373588e98e7e9e76a2eef3a04f75
+
+COCOAPODS: 1.4.0
